@@ -28,3 +28,38 @@
 	color: #fff;
 	font-weight: 400;
 }
+
+/*Estilo que tendran los titulos h3 de la segunda y tercera sección*/
+.app{
+	padding: 2em 0;
+	color: #5A5A5A;
+}
+
+/*Segunda sección*/
+.second-section{
+	background-color: #fff;
+	padding: 5em 0;
+}
+
+.title-second{
+	color: #D2527F;
+}
+
+.feature{
+	padding: 0.8em;
+}
+
+.features:hover{
+	background-color: #F2F2F2;
+	cursor: pointer;
+}
+
+p{
+	padding: 0;
+	margin-bottom:  1em;
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 28px;
+	color: #666;
+	margin-top: 1em;
+}
